@@ -3,3 +3,5 @@ def subtraction(a,b):
 result = subtraction(8,7)
 
 print(result)
+
+result2= subtraction(10,7)
